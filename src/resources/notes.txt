@@ -1,14 +1,15 @@
 
 QuizWars
 ├── src/
-├── head.java
-├── Question.java
-├── EasyQuestion.java
-├── MediumQuestion.java
-├── HardQuestion.java
-├── QuestionLoader.java
-└── resources/
-│   ├── easy.txt
-│   ├── medium.txt
-│   └── hard.txt
+│   ├── EasyQuestion.java
+│   ├── HardQuestion.java
+│   ├── MediumQuestion.java
+│   ├── Question.java
+│   ├── QuestionLoader.java
+│   ├── head.java
+│   └── resources/
+│       ├── easy.txt
+│       ├── medium.txt
+│       ├── hard.txt
+│       └── notes.txt
 └── README.md
