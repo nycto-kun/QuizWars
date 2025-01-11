@@ -1,7 +1,7 @@
 
 QuizWars
 ├── src/
-├── Main.java
+├── head.java
 ├── Question.java
 ├── EasyQuestion.java
 ├── MediumQuestion.java
